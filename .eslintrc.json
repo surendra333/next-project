@@ -1,0 +1,9 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "react/no-unescaped-entities": 0,
+    "react/no-find-dom-node":"warn",
+    "eslint-disable-next-line react-hooks/rules-of-hooks":0   
+  }
+}
+   
